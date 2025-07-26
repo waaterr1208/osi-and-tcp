@@ -1,2 +1,2 @@
-# osi-and-tcp
-BoB14 보안제품개발트랙 0721
+# OSI Layer and TCP/IP Layer
+<img src="OSInTCP.png"/>
